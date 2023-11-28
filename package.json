@@ -1,6 +1,6 @@
 {
-  "name": "@app-toolkit-center/carbon",
-  "version": "1.0.0",
+  "name": "toolkit-carbon",
+  "version": "1.0.1",
   "description": "",
   "main": "preload.js",
   "scripts": {
