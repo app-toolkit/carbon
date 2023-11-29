@@ -2,7 +2,7 @@
   "name": "toolkit-carbon",
   "pluginName": "carbon",
   "logo": "favicon.ico",
-  "version": "0.0.1",
+  "version": "1.0.3",
   "description": "美化代码截图工具",
   "keywords": [
     "carbon"
